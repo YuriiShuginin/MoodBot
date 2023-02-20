@@ -1,0 +1,6 @@
+__pycache__/
+config.py
+*.doc[x]
+*.pptx
+*.jpg
+Try*.py
