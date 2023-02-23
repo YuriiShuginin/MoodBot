@@ -1,4 +1,4 @@
 # MoodBot
 Telegram bot for mental health control and mood improving.
 
-A detailed description in Russian is available in Презентация.pdf file.
+A detailed description is available in Презентация.pdf file.
